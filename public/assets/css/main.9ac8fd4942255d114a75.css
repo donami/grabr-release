@@ -1,0 +1,3 @@
+@import url(https://fonts.googleapis.com/css?family=Gentium+Basic);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600);
+*{margin:0}*,html{padding:0}html{border:0;font-family:Poppins,serif;font-size:14px}#root,#root>div,body,html{height:100%}.cursor{cursor:pointer}@keyframes loader{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes button-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
